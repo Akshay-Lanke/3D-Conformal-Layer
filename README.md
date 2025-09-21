@@ -20,6 +20,3 @@ A web-based 3D visualization project for exploring conformal layers, featuring a
 ## Dependencies
 - No external dependencies required for basic usage (runs in browser).
 - For advanced features, you may add libraries via `package.json`.
-
-## License
-MIT License
