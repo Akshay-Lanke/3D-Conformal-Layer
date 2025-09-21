@@ -20,3 +20,7 @@ A web-based 3D visualization project for exploring conformal layers, featuring a
 ## Dependencies
 - No external dependencies required for basic usage (runs in browser).
 - For advanced features, you may add libraries via `package.json`.
+ 
+## Live Demo
+
+[Click here to view the live project](https://3-d-conformal-layer.vercel.app/)
